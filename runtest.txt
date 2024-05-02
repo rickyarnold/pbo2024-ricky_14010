@@ -1,0 +1,17 @@
+1
+Nama: null
+Alamat: null
+null
+
+2
+NIM : A11.2022.14831
+
+3
+Nama: null
+Alamat: null
+NIM : A11.2022.14831
+
+4
+NIM : A11.2022.14831
+Nama: null
+Alamat: null
